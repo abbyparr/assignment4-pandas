@@ -1,1 +1,1 @@
-# assignment4-pandas
+The purpose of my project is to load data into Series and Dataframes, and analyze the data. My program can be used by reading the iris data file, and merging the data in series. From here, the data is all combined into a Dataframe, where the data is used in functions to analyze the data. My program utilizes Series, Dataframes, pd.concat, pd.read_csv, and statistical functions. 
